@@ -1,0 +1,165 @@
+[
+    {
+        "name": "Ferrari",
+        "category": "Italian",
+        "city": "Modena",
+        "state": "Italy",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Maranello",
+        "coordinates": {
+            "longitude": 10.8645,
+            "latitude": 44.5326
+        },
+        "description": "Ferrari's involvement in Formula 1 is deeply intertwined with their brand identity and heritage. As the oldest and most successful team in F1 history, Ferrari has dominated the sport since its inception in 1950, winning numerous championships. They are revered for their iconic red livery, prancing horse logo, and legendary drivers like Schumacher and Lauda. While facing challenges, Ferrari remains dedicated to technological innovation and collaboration to regain their championship-winning form. Beyond racing, Ferrari's advanced research and development in automotive technology set them apart, utilizing F1 as a testing ground. With a global fan base, Ferrari's unwavering passion, commitment to performance, and pursuit of victory continue to captivate audiences, showcasing their enduring excellence and storied legacy in motorsports.",
+        "imageName": "Ferrari"
+    },
+    {
+        "name": "Mercedes",
+        "category": "German",
+        "city": "Stuttgart",
+        "state": "Germany",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Stuttgart",
+        "coordinates": {
+            "longitude": 9.1829,
+            "latitude": 48.7758
+        },
+        "description": "Mercedes, the prominent German automaker, has made an immense impact in Formula 1 through their dominant and successful team, Mercedes-AMG Petronas Formula One Team. Since their return to the sport in 2010, they have achieved remarkable success, winning multiple drivers' and constructors' championships. Led by exceptional drivers like Lewis Hamilton and Valtteri Bottas, Mercedes' expertise in engineering and strategic excellence has been consistently evident. Known for their distinctive silver livery and innovative advancements in aerodynamics and power units, Mercedes has set high standards for performance and efficiency both on and off the track. Their recent dominance has solidified their position as one of the most influential teams in the history of Formula 1, leaving an indelible mark on the sport and showcasing their commitment to pushing boundaries and achieving greatness.",
+        "imageName": "Mercedes"
+    },
+    {
+        "name": "Red Bull",
+        "category": "British",
+        "city": "England",
+        "state": "United Kingdom",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Milton Keynes",
+        "coordinates": {
+            "longitude": -0.7594,
+            "latitude": 52.0406
+        },
+        "description": "Red Bull, the renowned energy drink company, has made a significant impact in Formula 1 with their successful team, Red Bull Racing. Since their entry in 2005, Red Bull Racing has become a formidable force, winning multiple championships and challenging traditional powerhouse teams. Led by exceptional drivers like Verstappen and Perez, Red Bull Racing combines aggressive racing style with technological innovation. Their distinctive blue, red, and yellow livery, along with their commitment to pushing boundaries, has solidified their status as a top team. Red Bull's unique marketing approach and involvement in various motorsports disciplines further highlight their dedication to motorsport as a whole. With a relentless pursuit of victory and a captivating team spirit, Red Bull Racing continues to leave a lasting impression in Formula 1, establishing themselves as a force to be reckoned with in the world of motorsports.",
+        "imageName": "Red Bull"
+    },
+    {
+        "name": "Mclaren",
+        "category": "British",
+        "city": "England",
+        "state": "United Kingdom",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Woking,Surrey",
+        "coordinates": {
+            "longitude": -0.5483,
+            "latitude": 51.3458
+        },
+        "description": "McLaren, the renowned British automotive manufacturer, has a rich Formula 1 history with their successful team, McLaren F1 Team. With multiple championships to their name, McLaren has been a force to reckon with since the 1960s. Led by talented drivers such as Ricciardo and Norris, the team embodies performance and competitiveness, easily recognizable with their iconic orange livery. McLaren's dedication to technological innovation in areas like aerodynamics and engineering has been instrumental in their success. Their expansion into road cars and involvement in cutting-edge projects further solidify their position as a brand synonymous with racing excellence. With a global fan base, McLaren F1 Team continues to strive for greatness, leaving a lasting impact in the world of motorsports through their relentless pursuit of performance and commitment to innovation.",
+        "imageName": "Mclaren"
+    },
+    {
+        "name": "Alfa Romeo",
+        "category": "Italian",
+        "city": "Turin",
+        "state": "Italy",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Turin",
+        "coordinates": {
+            "longitude": 7.6869,
+            "latitude": 45.0703
+        },
+        "description": "Alfa Romeo, the renowned Italian automotive manufacturer, has a notable presence in Formula 1 with their team, Alfa Romeo Racing ORLEN. Led by drivers like Räikkönen and Giovinazzi, they represent the brand with a striking red and white livery. While championship success has been elusive in recent years, Alfa Romeo Racing ORLEN remains competitive, continuously pursuing advancements in aerodynamics, engines, and race strategy. Beyond Formula 1, Alfa Romeo's precision engineering and Italian craftsmanship shine through in their road cars. Their involvement in the sport serves as a platform to showcase their technological expertise. Alfa Romeo Racing ORLEN upholds their racing legacy, captivating fans with their passion for speed and performance while reinforcing their connection to the racing world.",
+        "imageName": "Alfa Romeo"
+    },
+    {
+        "name": "Aston Martin",
+        "category": "British",
+        "city": "England",
+        "state": "United Kingdom",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Gaydon",
+        "coordinates": {
+            "longitude": -1.4699,
+            "latitude": 52.1836
+        },
+        "description": "Aston Martin, the renowned British luxury automotive manufacturer, has made a notable entry into Formula 1 with their team, Aston Martin Cognizant Formula One Team. Building on their rich heritage, Aston Martin returned to the sport after a long absence. Led by drivers such as Sebastian Vettel and Lance Stroll, the team competes with a distinctive green livery that reflects the brand's iconic colors. While championship success has been limited, Aston Martin Cognizant Formula One Team remains a competitive participant, continuously striving for performance improvements in areas like aerodynamics and engine development. Beyond Formula 1, Aston Martin's involvement in the sport serves as a platform to showcase their commitment to automotive excellence and cutting-edge technology. Aston Martin Cognizant Formula One Team's presence in Formula 1 reinforces their connection to the racing world and allows them to engage fans worldwide, while upholding the brand's legacy of luxury, performance, and British craftsmanship.",
+        "imageName": "Aston Martin"
+    },
+  
+{
+        "name": "Alpha Tauri",
+        "category": "Italian",
+        "city": "Emilia-Romagna",
+        "state": "Italy",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Faenza",
+        "coordinates": {
+            "longitude": 11.8774,
+            "latitude": 44.2899
+        },
+        "description": "Alpha Tauri, the stylish and innovative fashion brand, has made a notable presence in Formula 1 with their team, Scuderia AlphaTauri. Formerly known as Toro Rosso, the team was rebranded to AlphaTauri in 2020, aligning it with the fashion brand's image. Led by drivers such as Pierre Gasly and Yuki Tsunoda, Scuderia AlphaTauri competes with a sleek navy blue and white livery. Despite not achieving championship success at the same level as their sister team, Red Bull Racing, AlphaTauri remains a competitive force, continuously pushing the boundaries of performance through advancements in aerodynamics and technology. AlphaTauri's involvement in Formula 1 allows the brand to merge fashion and motorsport, showcasing their commitment to style, innovation, and a dynamic approach. Through their participation, Scuderia AlphaTauri captures the attention of fans worldwide, leaving a fashionable and performance-driven impression in the world of motorsports.",
+        "imageName": "Alpha Tauri"
+    },
+    {
+        "name": "Alpine",
+        "category": "British",
+        "city": "Oxfordshire",
+        "state": "United Kingdom",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Enstone",
+        "coordinates": {
+            "longitude": -1.2465,
+            "latitude": 51.7612
+        },
+        "description": "Alpine, the French automotive brand known for its elegance and performance, has a significant presence in Formula 1 with their team, Alpine F1 Team. Formerly known as Renault, the team was rebranded as Alpine in 2021, aligning it with the brand's racing heritage. Led by drivers like Fernando Alonso and Esteban Ocon, Alpine F1 Team competes with a striking blue livery, reflecting the brand's iconic colors. While championship success has been limited, Alpine F1 Team remains a competitive participant, consistently striving for advancements in aerodynamics, engine performance, and race strategy. Alpine's involvement in Formula 1 serves as a platform to showcase their French craftsmanship and technical expertise. With a focus on innovation and performance, Alpine F1 Team continues to captivate fans worldwide, leaving a lasting impression with their unique blend of elegance and racing excellence.",
+        "imageName": "Alpine"
+    },
+    {
+        "name": "Haas",
+        "category": "American",
+        "city": "North Carolina",
+        "state": "United States",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Kannapolis",
+        "coordinates": {
+            "longitude": -80.621735,
+            "latitude": 35.487362
+        },
+        "description": "Haas, the American automotive manufacturer, has a presence in Formula 1 with their team, Haas F1 Team. Since their entry into the sport in 2016, Haas has established themselves as a competitive participant. Led by drivers like Mick Schumacher and Nikita Mazepin, the team competes with a striking black and gold livery, representing their unique identity on the track. While championship success has been limited, Haas F1 Team remains focused on development and learning, leveraging partnerships with established teams to enhance their performance. With a goal of building a solid foundation for future success, Haas continues to make strides in technology and engineering, positioning themselves as a key contender in the world of Formula 1.",
+        "imageName": "Haas"
+    },
+    
+    {
+        "name": "Williams",
+        "category": "British",
+        "city": "England",
+        "state": "United Kingdom",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wantage",
+        "coordinates": {
+            "longitude": -1.4265,
+            "latitude": 51.5889
+        },
+        "description": "Williams, the renowned British Formula 1 team, has a storied history in the sport. With a legacy dating back to the 1970s, Williams has enjoyed significant success, winning multiple drivers' and constructors' championships. Though recent years have seen a decline in their performance, the team remains a respected competitor. Led by drivers like George Russell and Nicholas Latifi, Williams continues to strive for improvement, focusing on technical advancements and team collaboration. Their iconic white and blue livery is a symbol of their heritage and dedication. Williams' commitment to nurturing young talent and innovative engineering sets them apart. Despite challenges, Williams' enduring presence in Formula 1 showcases their determination, passion, and contribution to the sport's rich tapestry.",
+        "imageName": "Williams"
+    },
+   
+]
